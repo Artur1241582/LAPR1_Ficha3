@@ -1,0 +1,13 @@
+Algoritmo Soma
+
+ED: n1, n2, soma inteiro
+
+Inicio
+
+Escrever("Introduza os dois números")
+Ler(n1,n2)
+
+soma<- n1+n2
+
+Escrever("O resultado da soma é:", soma)
+Fim
